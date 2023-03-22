@@ -1,5 +1,5 @@
-# 23-bienvenidos-Nicole-Flores
-23-bienvenidos-Nicole-Flores created by GitHub Classroom
+# 23 bienvenidos Nicole Flores
+23 bienvenidos Nicole Flores created by GitHub Classroom
 
 # Información:
 - Estudiante de UTN FRD.
